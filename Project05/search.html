@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Ken's General Aviation News &amp; Accidents Search Engine</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles/styles.css" rel="stylesheet" />
+    <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
+    
+</head>
+<body>
+    <h1>Ken's General Aviation </h1>
+    <img class="logo" src="images/GAicon-125.png" />
+    <h1>News &amp; Accidents Search Engine</h1>
+    <h3>Please enter your search terms below </h3>
+
+
+    <div id="search">
+
+                <p><label for="search"><strong>Search For:</strong></label>
+                <input type="text" name="txtSearch" id="txtSearch" size="25" required /></p>
+                <input type="button" name="search" id="btnSearch" value="Search" onclick="onDeviceReady();" />
+                <input type="button" name="reset" id="btnReset" value="Clear" onclick="startOver();" />
+
+    </div>
+
+    <script src="scripts/jquery-2.1.1.min.js"></script>
+    <script src="scripts/scripts.js"></script>
+</body>
+</html>
