@@ -6,10 +6,10 @@
         id        = "edu.hvcc.InAppBrowserApp"
         version   = "1.0.0">
 
-  <name>GA Search</name>
+  <name>GA Search - Advanced</name>
 
   <description>
-    General Aviation News and Accidents Search Application.
+    General Aviation News and Accidents Search Application using Google custom search.
   </description>
 
   <author href="http://www.hvcc.edu" email="k-petersen4@hvcc.edu">
