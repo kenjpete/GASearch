@@ -6,7 +6,7 @@
         id        = "edu.hvcc.InAppBrowserApp"
         version   = "1.0.0">
 
-  <name>GA Search</name>
+  <name>GA Search - Advanced</name>
 
   <description>
     General Aviation News and Accidents Search Application.
